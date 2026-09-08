@@ -1,0 +1,25 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Datasets
+dataset/
+kaggle_dataset/
+*.zip
+
+# Training outputs
+outputs/
+
+# Temporary files
+*.log
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Duplicate model archive
+models/underwater_enhancement_models.zip
